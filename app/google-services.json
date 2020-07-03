@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "786275124209",
+    "firebase_url": "https://ex87firestore.firebaseio.com",
+    "project_id": "ex87firestore",
+    "storage_bucket": "ex87firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786275124209:android:63d167d979cb67339aba50",
+        "android_client_info": {
+          "package_name": "com.icandothisallday2020.ex87firebasecloudstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786275124209-tt3jgekkg1bnbfoieb1puf3doerv2klk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkYgEx_JZBgOSV79XTSRa54ul6v77YR_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786275124209-tt3jgekkg1bnbfoieb1puf3doerv2klk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
